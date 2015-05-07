@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1431005109 source:/home/helloqiu/c_class/5-6/Circle_fixed/main.cpp
+	<iostream>
+	"Circle.h"
+
+1431005022 /home/helloqiu/c_class/5-6/Circle_fixed/include/Circle.h
+
+1431005128 source:/home/helloqiu/c_class/5-6/Circle_fixed/src/Circle.cpp
+	"Circle.h"
+
